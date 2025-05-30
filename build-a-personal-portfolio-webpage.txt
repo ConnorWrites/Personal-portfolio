@@ -1,0 +1,200 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale 1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" />
+    <title>Conrad Wilken Personal Portfolio Webpage</title>
+    </head>
+    <body>
+      <main>
+
+<section class="head">
+        <header id="header" class="nav-heading">
+          <h1 class="motto">Effective, efficient, excellent.</h1>
+          <nav id="navbar" class="navbar">
+            <ul class="nav-list">
+              <li><a class="nav-link" href="#About"><em>About</em></a></li>
+              <li><a class="nav-link" href="#My_Projects"><em>Work</em></a></li>
+              <li><a class="nav-link" href="#Contact"><em>Contact</em></a></li>
+            </ul>
+          </nav>
+        </header>
+      </section>
+
+<section id="welcome-section" class="welcome-section">
+        <div class="welcome">
+          <img src="https://i.imgur.com/AqnfY6F.jpeg" alt="Conrad in Ha Long bay with his family" class="welcome-img" loading="lazy"/>
+          <div class="top-left">
+        <h1>Welcome to Conrad Wilken's personal portfolio.</h1>
+        <blockquote>
+          <hr />
+          <p class="quote"><em>'Let's have some coffee...'</em></p>
+          <hr />
+          </blockquote>
+        </div>
+        </div>
+        </section>
+
+<section id="info" class="about">
+          <h1 class="info" id="About">About Me</h1><p class="subtitle"><em>Web Developer / Author / Teacher / Trainer</em></p>
+          <p class="text">I am a proudly South African web developer and author with an innate passion for animals, nature, and keeping the natural wonder of the world alive. I currently works in Ho Chi Minh City, Vietnam, where I live with my beautiful wife, Christine, and our two small children who are little bundles of never-ending energy. During the five years I spent working abroad as an English teacher I discovered a love for taking something good and making it great, and as excellence is something I pursue in every area of my own life, I strive to keep supporting every one of my students, clients, and colleagues on their journey towards a higher standard. My experience, both personal and professional, puts me in a good position to develop and elevate skills.</p>
+          </section>
+
+<section id="projects" class="projects">
+  <header id=" My Projects" class="projects-heading"><h1 class="info">My projects</h1></header>
+  <div class="project-tile , top"><header class="four">Product Landling Page</header>
+              <a class="click" href="http://localhost:9898/Local/FreeCodeCamp%20Projects/Product%20Landing%20Page/ProductLandingPage.html?1F109A23-FDAE-4863-BDEC-75A69E07E968" target="blank"><img src="https://i.imgur.com/tAJbiJb.jpeg" alt="product landing page" loading="lazy" class="product" /></a>
+              </div>
+  <div class="container">
+    <div class="project-tile , left"><header class="one">Technical Documentation Page</header><a href="http://localhost:9898/Local/FreeCodeCamp%20Projects/Technical%20Documentation%20Page/TechnicalDocumentationPage.html?25411714-1C46-4777-88D7-166161E1A805" class="click" target="_blank"><img src="https://i.imgur.com/S4ZVfmO.jpeg" alt="technical documentation page"  loading="lazy" class="doc" /></a>
+      </div>
+        <div class="project-tile , middle"><header class="two">Tribute Page</header><a href="http://localhost:9898/Local/FreeCodeCamp%20Projects/Tribute%20Page/Tribute.html?0AD6984D-732B-474B-883D-6D3BC617E845" class="click" target="_blank"><img src="https://i.imgur.com/O0j3uMe.jpeg" alt="tribute page" loading="lazy" class="tribute" /></a>
+          </div>
+          <div class="project-tile , right"><header class="three">Survey Form</header><a href="http://localhost:9898/Local/FreeCodeCamp%20Projects/SurveyForm.html?B9ABFFF9-00F8-4C28-A12F-F25158600477" class="click" target="_blank"><img src="https://i.imgur.com/hU51jrP.jpeg" alt="survey form" loading="lazy" class="form" /></a>
+            </div></div>
+            <p class="profile">You can also visit my <a id="profile-link" href="https://www.freecodecamp.org/ConradWilken" target="_blank" class="prof">FreeCodeCamp profile</a> for more information.</p>
+            </section>
+
+<section id="contact" class="contact">
+      <h1 id="Contact" class="info">Contact Me</h1>
+      <p class="call">Send me an e-mail at <a>connorwritesalot@gmail.com</a></p>
+      <p class="call">Find me on social media:</p>
+<div class="social-icons">
+       <div class="icon1"><a href="https://www.facebook.com/share/1QcLXBJZKb/?mibextid=wwXIfr"><i class="fab fa-facebook-f"></i></a></div>
+        <div class="icon2"><a href="https://www.instagram.com/forbidden_talestm?igsh=N3Z5Z2kzYTlpN28w"><i class="fab fa-instagram"></i></a></div>
+        <div class="icon3"><a href="https://youtu.be/N-z07C1kQ0s?si=P3M2RhyPPdRULvCx"><i class="fab fa-youtube"></i></a></div>
+        <div class="icon4"><a href="https://www.linkedin.com/in/conradwilken?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><i class="fab fa-linkedin-in"></i></a></div>
+        </div></section>
+
+<section class="video"><h1 class="book">Bonus! Here's a preview of my book which can be found <a href="https://www.amazon.com/dp/B0CPLH4M58" target="_blank" class="sell">here</a>:</h1>
+    <div class="vid">
+    <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/N-z07C1kQ0s?si=pDXBCSYwmRKyEyHR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</section>
+
+       </main>
+      </body>
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+.nav-heading { font-family: brush script mt , open sans; width:100%; height:9vh; background:linear-gradient(120deg,#76daff, #fcd000); position:fixed; top:0px; left:0px;  }
+
+.motto {display:inline-block; width:35%; float:left; margin-left: 20px; margin-top:15px; text-align:center; font-size: calc(15px + 2vw);  }
+
+.navbar {display:inline-block; width:50%; float:right; font-size: calc(15px + 1vw); justify-content:space-evenly;  }
+
+.nav-list { display:flex; font-family: brush script mt; margin-top:15px; justify-content:space-evenly; list-style-type:none; }
+
+.navbar a {color:#007fff;}
+
+.welcome-section {width:100vw;height:100vh; }
+
+.welcome {font-size:1.5rem; position:absolute; left:0px; text-align:center; color:black; z-index:-1; }
+
+.top-left {position:absolute; top:16%; left:5%; }
+
+.welcome-img {width:100%; height:750px; opacity:80%; margin-left:-1px; }
+
+.quote {font-weight:bold; font-size:2rem ; font-family: Brush Script MT; }
+
+.about {background:linear-gradient(#76daff, #fcd000); width:100vw; height:auto; margin-left:-8px; overflow:hidden;  }
+
+.info { font-size:2rem; font-family: brush script mt; margin-top:35px; margin-left:20px; }
+
+.subtitle { font-family: brush script mt; font-size: 1.5rem ; margin-left:20px; margin-top: -20px; }
+
+.text {margin-left:10px; padding:5px; font-size:1.2rem;}
+
+.projects {width:100vw; height:auto; overflow:hidden; background:linear-gradient(#fcd000, #76daff); margin-left:-8px;  }
+
+.top {width:100%; height:auto; padding-bottom:15px;  }
+
+.container {width:100%; height:auto; display:flex; flex-direction:row; justify-content: center; }
+
+.left, .middle, .right {width:32vw; height:auto; padding:3px; }
+
+.doc, .form, .product, .tribute {width:100%; height:auto; }
+
+.one, .two, .three, .four {text-align:center; font-size:1.5rem;margin-bottom:15px; padding:5px;}
+
+.four {margin-top:-10px;}
+
+.profile {text-align:center; padding:5px;}
+
+.prof:hover {color:#fcd000;}
+
+.left:hover, .middle:hover, .right:hover, .top:hover {background-color:#76daff;  }
+
+.contact {width:100vw; height:auto; margin-left:-8px; background:linear-gradient(#76daff, #fcd000); overflow:hidden; margin-bottom:5px;}
+
+.follow, .call {font-size: 1.2rem; margin-left:20px;}
+
+.social-icons { width:100%; height:100%; display: flex; flex-direction:row;
+  font-size: 3.5rem;  
+  margin-top:15px; }
+
+.icon1, .icon2, .icon3, .icon4{width:100%; height:100%; border-radius:50%; margin:5px; padding:15px; text-align:center;}  
+
+.icon1:hover, .icon2:hover, .icon3:hover, .icon4:hover, .sell:hover {background-color:#76daff;}
+
+.vid {text-align:center; padding:20px; }
+
+.book { font-size:1.5rem; font-family: brush script mt; margin-top:20px; text-align:center; }
+
+.video {width:100vw; height:auto; overflow:hidden; background:linear-gradient(#fcd000, #76daff); margin-left:-8px; margin-top:-5px; }
+
+
+@media only screen and (max-width:600px) {
+  .nav-heading {width:100%; height:13vh; }
+
+.motto { width:30%; margin-left: 1px; margin-top:1px; }
+
+.navbar {width:68%; }
+
+.nav-list {margin-top:20px; }
+
+.welcome-section {width:100vw;height:100vh; }
+
+.welcome {font-size:20px; }
+
+.top-left {position:absolute; top:15%; left:3%; }
+
+.welcome-img {width:100%; height:70vh; opacity:80%; margin-left:-1px; }
+
+blockquote { margin-top:125px; color:white;}
+
+.quote {font-size:18px; margin-top:4px; margin-bottom: 4px;}
+
+.about {width:100vw; height:auto; margin-top:-180px  }
+
+.info { font-size:25px;  }
+
+.subtitle {font-size:15px; }
+
+.text {font-size:15px;}
+
+.projects {width:100vw; height:auto; }
+
+.left, .middle, .right {width:32vw; height:auto; }
+
+.doc, .form, .product, .tribute {width:100%; height:auto; }
+
+.one, .two, .three, .four {font-size:15px;}
+
+.follow, .call {font-size: 18px; }
+
+.social-icons {font-size: 20px;}
+
+.book { font-size:20px;}
+
+iframe {width:100%; height:100%; } }
+
+** end of undefined **
+
