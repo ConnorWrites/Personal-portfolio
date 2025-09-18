@@ -14,7 +14,7 @@
 
 .top-left {position:absolute; top:16%; left:5%; }
 
-.welcome-img {width:100%; height:750px; opacity:80%; margin-left:-1px; }
+.welcome-img {width:100vw; height:750px; opacity:80%; margin-left:-1px; }
 
 .quote {font-weight:bold; font-size:2rem ; font-family: Brush Script MT; }
 
