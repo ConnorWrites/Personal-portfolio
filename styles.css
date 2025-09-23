@@ -1,6 +1,6 @@
 .nav-heading { font-family: brush script mt , open sans; width:100%; height:9vh; background:linear-gradient(120deg,#76daff, #fcd000); position:fixed; top:0px; left:0px;  }
 
-.motto {display:inline-block; width:35%; float:left; margin-left: 20px; margin-top:15px; text-align:center; font-size: calc(15px + 2vw);  }
+.motto {display:inline-block; width:30%; float:left; margin-left: 10px; margin-top:15px; text-align:center; font-size: calc(15px + 2vw);  }
 
 .navbar {display:inline-block; width:50%; float:right; font-size: calc(15px + 1vw); justify-content:space-evenly;  }
 
