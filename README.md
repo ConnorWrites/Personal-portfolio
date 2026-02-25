@@ -1,4 +1,6 @@
-This is my **Personal Portfolio** Website showcasing frontend projects, skills, and contact information.
+## Personal Portfolio
+
+This is my Personal Portfolio Website showcasing frontend projects, skills, and contact information.
 
 It consists of three files:
 - HTML5
