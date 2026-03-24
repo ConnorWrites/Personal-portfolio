@@ -15,7 +15,7 @@ Contains separate sections:
 
 And was built to:
 - Practice responsive web design
-- Showcase my frontend projects
+- Showcase my projects
 - Provide a central place for employers to view my work.
 
 Future improvements would include:
